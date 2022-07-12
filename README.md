@@ -11,9 +11,8 @@ Este projeto tem como objetivo desenvolver uma rede social como nova possibilida
 ![Mobile 1](https://github.com/ribeirorray/Muse-Music-App/blob/main/05.png) ![Mobile 1](https://github.com/ribeirorray/Muse-Music-App/blob/main/06.png)
 ![Mobile 1](https://github.com/ribeirorray/Muse-Music-App/blob/main/07.png) ![Mobile 1](https://github.com/ribeirorray/Muse-Music-App/blob/main/08.png)
 ![Mobile 1](https://github.com/ribeirorray/Muse-Music-App/blob/main/09.png) ![Mobile 1](https://github.com/ribeirorray/Muse-Music-App/blob/main/010.png)
- ##Em breve screenshots do player
 
-
+# Em breve screenshots do player!
 
 
 # Tecnologias utilizadas
@@ -24,39 +23,11 @@ Este projeto tem como objetivo desenvolver uma rede social como nova possibilida
 
 # Como executar o projeto
 
-## Back end
-Pré-requisitos: Java 11
+# Em breve!
 
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto back end
-cd backend
-
-# executar o projeto
-./mvnw spring-boot:run
-```
-
-## Front end web
-Pré-requisitos: npm / yarn
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
-
-# entrar na pasta do projeto front end web
-cd front-web
-
-# instalar dependências
-yarn install
-
-# executar o projeto
-yarn start
-```
 
 # Autor
 
-Wellington Mazoni de Andrade
+Rayane Nascimento(Parte social) e Joelyne França(Player Music)
 
-https://www.linkedin.com/in/wmazoni
+https://www.linkedin.com/in/rayane-nascimento-89048a172/
