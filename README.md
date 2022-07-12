@@ -22,8 +22,7 @@ Este projeto tem como objetivo desenvolver uma rede social como nova possibilida
 - Banco de dados: FireBase
 
 # Como executar o projeto
-
-# Em breve!
+## Em breve!
 
 
 # Autor
